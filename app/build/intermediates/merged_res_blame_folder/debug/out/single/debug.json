@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_background_button.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/background_button.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_presentimg.png.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/presentimg.png"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/layout_list_item.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_baseline_selectbutton.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/baseline_selectbutton.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/layout-land_fragment_input_player.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/layout-land/fragment_input_player.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/layout_fragment_admin.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/layout/fragment_admin.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_fragment_background.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/fragment_background.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/layout_fragment_show_picked_player.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/layout/fragment_show_picked_player.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/font_akaya_telivigala.ttf.flat",
+        "source": "com.example.randompickerv3.app-main-54:/font/akaya_telivigala.ttf"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_baseline_gift.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/baseline_gift.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_baseline_loginbutton.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/baseline_loginbutton.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/layout_test_popupview.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/layout/test_popupview.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/layout_fragment_input_player.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/layout/fragment_input_player.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_baseline_add.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/baseline_add.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/navigation_navigation.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.randompickerv3.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_baseline_deleteuser.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/baseline_deleteuser.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/drawable_background_edittext.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/drawable/background_edittext.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-merged_res-52:/layout_fragment_admin_login.xml.flat",
+        "source": "com.example.randompickerv3.app-main-54:/layout/fragment_admin_login.xml"
+    }
+]

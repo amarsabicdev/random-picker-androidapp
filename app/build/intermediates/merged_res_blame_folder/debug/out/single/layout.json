@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.randompickerv3.app-mergeDebugResources-51:/layout/list_item.xml",
+        "source": "com.example.randompickerv3.app-main-54:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-mergeDebugResources-51:/layout/fragment_show_picked_player.xml",
+        "source": "com.example.randompickerv3.app-main-54:/layout/fragment_show_picked_player.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-mergeDebugResources-51:/layout/fragment_admin.xml",
+        "source": "com.example.randompickerv3.app-main-54:/layout/fragment_admin.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-mergeDebugResources-51:/layout/fragment_admin_login.xml",
+        "source": "com.example.randompickerv3.app-main-54:/layout/fragment_admin_login.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-mergeDebugResources-51:/layout/fragment_input_player.xml",
+        "source": "com.example.randompickerv3.app-main-54:/layout/fragment_input_player.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.example.randompickerv3.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.randompickerv3.app-mergeDebugResources-51:/layout/test_popupview.xml",
+        "source": "com.example.randompickerv3.app-main-54:/layout/test_popupview.xml"
+    }
+]
